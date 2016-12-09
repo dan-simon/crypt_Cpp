@@ -1,0 +1,1 @@
+This repository exists to help me learn C++ by porting Crypt to it. Because what better way is there to learn C++ than porting a program in another language I don't know much of to it? Come to think of it, there are probably a bunch of ways, but somehow this one seems fun.
