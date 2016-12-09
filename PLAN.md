@@ -7,6 +7,8 @@
 * Day 7: it's too dark in here! (can't see, turn on the flashlight), playing the hanoi game (walls, all the disks), being blocked by the fire (fire, walls), fetching water (brook, water, helmet), putting out the fire
 * Day 8: doom and cavern collapse, triggering doom and dying (pedestal, butterfly, walls), tying up various loose ends, the finished game
 
+------------------
+
 * Is this schedule possible? Yes.
 * Is it crazily optimistic? Yes.
 * Is it subject to change? Yes.
