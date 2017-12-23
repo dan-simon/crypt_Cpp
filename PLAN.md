@@ -17,4 +17,6 @@
 * Is it going to be changed? Yes, almost certainly.
 * Is it something I can brag about if I follow? Yes, and that's enough to try.
 
-What will Day 1 be? Hopefully the 23rd! And still of December! (Yes, in 2017 and not 2016, but that's the change to the schedule mentioned above.)
+What will Day 1 be? Maybe the 23rd of December 2018. I have looked at C++ and it is harder than either dynamic or functional languages. Maybe even than C; in C I would know that I had to start from scratch.
+
+Alternatively, maybe I'll just do the Perl 6 part, but that feels fairly useless.
